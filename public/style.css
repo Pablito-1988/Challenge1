@@ -86,13 +86,16 @@ button:hover{
 @media (min-width: 1440px){
     .wrapper{
         display: flex;
-        width: 70%;
+        width: 50%;
         flex-direction: row;
-        margin: 30px;
+        margin-left: 27%;
+        margin-top: 15%;
+        line-height: 20px;
+    
 
     }
     .element p{
-        margin-bottom: 37px;
+        margin-bottom: 50px;
     }
     .element1{
         border-top-left-radius: 5%;
